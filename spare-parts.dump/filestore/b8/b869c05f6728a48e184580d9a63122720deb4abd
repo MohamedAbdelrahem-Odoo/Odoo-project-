@@ -1,0 +1,164 @@
+﻿External ID,Code,Account Name,Type,Allow Reconciliation,Deprecated
+coa_eg_spares_111001,111001,الصندوق الرئيسي,Bank and Cash,TRUE,FALSE
+coa_eg_spares_111002,111002,صندوق الفرع,Bank and Cash,TRUE,FALSE
+coa_eg_spares_111003,111003,عهدة الخزينة,Current Assets,TRUE,FALSE
+coa_eg_spares_112001,112001,البنك - حساب جاري بالجنيه المصري,Bank and Cash,TRUE,FALSE
+coa_eg_spares_112002,112002,البنك - حساب توفير,Bank and Cash,TRUE,FALSE
+coa_eg_spares_112003,112003,البنك - حساب بالدولار الأمريكي,Bank and Cash,TRUE,FALSE
+coa_eg_spares_112004,112004,شيكات تحت التحصيل,Current Assets,TRUE,FALSE
+coa_eg_spares_112005,112005,تحويلات بنكية معلقة,Current Assets,TRUE,FALSE
+coa_eg_spares_113001,113001,العملاء - محلي,Receivable,TRUE,FALSE
+coa_eg_spares_113002,113002,العملاء - جملة,Receivable,TRUE,FALSE
+coa_eg_spares_113003,113003,العملاء - تجزئة,Receivable,TRUE,FALSE
+coa_eg_spares_113004,113004,العملاء - ورش ومراكز خدمة,Receivable,TRUE,FALSE
+coa_eg_spares_113005,113005,العملاء - شركات وأساطيل,Receivable,TRUE,FALSE
+coa_eg_spares_113006,113006,أوراق قبض,Receivable,TRUE,FALSE
+coa_eg_spares_113007,113007,ديون مشكوك في تحصيلها,Current Assets,TRUE,FALSE
+coa_eg_spares_113008,113008,مخصص ديون مشكوك في تحصيلها,Current Assets,FALSE,FALSE
+coa_eg_spares_114001,114001,مخزون قطع غيار - مخزن رئيسي,Current Assets,FALSE,FALSE
+coa_eg_spares_114002,114002,مخزون قطع غيار - فرع,Current Assets,FALSE,FALSE
+coa_eg_spares_114003,114003,مخزون بالطريق,Current Assets,FALSE,FALSE
+coa_eg_spares_114004,114004,مخزون أمان,Current Assets,FALSE,FALSE
+coa_eg_spares_114005,114005,بضاعة لدى الغير,Current Assets,FALSE,FALSE
+coa_eg_spares_114006,114006,قطع غيار تالفة وبطيئة الحركة,Current Assets,FALSE,FALSE
+coa_eg_spares_114007,114007,مخصص هبوط وتقادم المخزون,Current Assets,FALSE,FALSE
+coa_eg_spares_114008,114008,فروق جرد المخزون - مؤقت,Current Assets,TRUE,FALSE
+coa_eg_spares_115001,115001,دفعات مقدمة للموردين - محلي,Prepayments,TRUE,FALSE
+coa_eg_spares_115002,115002,دفعات مقدمة للموردين - استيراد,Prepayments,TRUE,FALSE
+coa_eg_spares_115003,115003,سلف وعهد الموظفين,Current Assets,TRUE,FALSE
+coa_eg_spares_115004,115004,تأمينات لدى الغير,Non-current Assets,TRUE,FALSE
+coa_eg_spares_115005,115005,مصروفات مدفوعة مقدماً,Prepayments,TRUE,FALSE
+coa_eg_spares_115006,115006,إيجار مدفوع مقدماً,Prepayments,TRUE,FALSE
+coa_eg_spares_115007,115007,تأمين مدفوع مقدماً,Prepayments,TRUE,FALSE
+coa_eg_spares_116001,116001,ضريبة قيمة مضافة - مدخلات مشتريات 14%,Current Assets,TRUE,FALSE
+coa_eg_spares_116002,116002,ضريبة قيمة مضافة - مدخلات استيراد,Current Assets,TRUE,FALSE
+coa_eg_spares_116003,116003,ضريبة خصم وتحصيل لدى الغير,Current Assets,TRUE,FALSE
+coa_eg_spares_116004,116004,ضرائب مستردة أخرى,Current Assets,TRUE,FALSE
+coa_eg_spares_116005,116005,مصلحة الجمارك - أمانات,Current Assets,TRUE,FALSE
+coa_eg_spares_121001,121001,أراضي,Fixed Assets,FALSE,FALSE
+coa_eg_spares_121002,121002,مبانٍ وتجهيزات,Fixed Assets,FALSE,FALSE
+coa_eg_spares_121003,121003,أثاث وتجهيزات مكتبية,Fixed Assets,FALSE,FALSE
+coa_eg_spares_121004,121004,أجهزة حاسب وشبكات,Fixed Assets,FALSE,FALSE
+coa_eg_spares_121005,121005,سيارات نقل وتوزيع,Fixed Assets,FALSE,FALSE
+coa_eg_spares_121006,121006,معدات مخازن ورافعات,Fixed Assets,FALSE,FALSE
+coa_eg_spares_121007,121007,لافتات وديكورات الفروع,Fixed Assets,FALSE,FALSE
+coa_eg_spares_121008,121008,أصول تحت التنفيذ,Non-current Assets,FALSE,FALSE
+coa_eg_spares_122002,122002,مجمع إهلاك المباني والتجهيزات,Fixed Assets,FALSE,FALSE
+coa_eg_spares_122003,122003,مجمع إهلاك الأثاث والتجهيزات,Fixed Assets,FALSE,FALSE
+coa_eg_spares_122004,122004,مجمع إهلاك الحاسب والشبكات,Fixed Assets,FALSE,FALSE
+coa_eg_spares_122005,122005,مجمع إهلاك سيارات النقل,Fixed Assets,FALSE,FALSE
+coa_eg_spares_122006,122006,مجمع إهلاك معدات المخازن,Fixed Assets,FALSE,FALSE
+coa_eg_spares_123001,123001,برامج وأنظمة,Non-current Assets,FALSE,FALSE
+coa_eg_spares_123002,123002,تراخيص وحقوق استخدام,Non-current Assets,FALSE,FALSE
+coa_eg_spares_123003,123003,مجمع إطفاء البرامج والتراخيص,Non-current Assets,FALSE,FALSE
+coa_eg_spares_211001,211001,الموردون - محلي,Payable,TRUE,FALSE
+coa_eg_spares_211002,211002,الموردون - استيراد,Payable,TRUE,FALSE
+coa_eg_spares_211003,211003,الموردون - خدمات,Payable,TRUE,FALSE
+coa_eg_spares_211004,211004,أوراق دفع,Payable,TRUE,FALSE
+coa_eg_spares_211005,211005,موردون غير مفوترين,Current Liabilities,TRUE,FALSE
+coa_eg_spares_212001,212001,ضريبة قيمة مضافة - مخرجات مبيعات 14%,Current Liabilities,TRUE,FALSE
+coa_eg_spares_212002,212002,ضريبة قيمة مضافة مستحقة السداد,Current Liabilities,TRUE,FALSE
+coa_eg_spares_212003,212003,ضريبة خصم وتحصيل مستحقة,Current Liabilities,TRUE,FALSE
+coa_eg_spares_212004,212004,ضريبة كسب عمل مستحقة,Current Liabilities,TRUE,FALSE
+coa_eg_spares_212005,212005,ضرائب ورسوم أخرى مستحقة,Current Liabilities,TRUE,FALSE
+coa_eg_spares_213001,213001,تأمينات اجتماعية مستحقة,Current Liabilities,TRUE,FALSE
+coa_eg_spares_213002,213002,رواتب وأجور مستحقة,Current Liabilities,TRUE,FALSE
+coa_eg_spares_213003,213003,عمولات وحوافز مستحقة,Current Liabilities,TRUE,FALSE
+coa_eg_spares_213004,213004,مصروفات مستحقة,Current Liabilities,TRUE,FALSE
+coa_eg_spares_213005,213005,إيجارات مستحقة,Current Liabilities,TRUE,FALSE
+coa_eg_spares_213006,213006,مرافق مستحقة,Current Liabilities,TRUE,FALSE
+coa_eg_spares_213007,213007,شحن ونقل مستحق,Current Liabilities,TRUE,FALSE
+coa_eg_spares_214001,214001,دفعات مقدمة من العملاء,Current Liabilities,TRUE,FALSE
+coa_eg_spares_214002,214002,تأمينات العملاء,Current Liabilities,TRUE,FALSE
+coa_eg_spares_214003,214003,إيرادات مؤجلة,Current Liabilities,TRUE,FALSE
+coa_eg_spares_214004,214004,قسائم وخصومات مستحقة للعملاء,Current Liabilities,TRUE,FALSE
+coa_eg_spares_215001,215001,تسهيلات ائتمانية قصيرة الأجل,Current Liabilities,TRUE,FALSE
+coa_eg_spares_215002,215002,قروض قصيرة الأجل,Current Liabilities,TRUE,FALSE
+coa_eg_spares_215003,215003,بطاقات ائتمان الشركة,Credit Card,TRUE,FALSE
+coa_eg_spares_221001,221001,قروض طويلة الأجل,Non-current Liabilities,TRUE,FALSE
+coa_eg_spares_221002,221002,التزامات عقود إيجار طويلة الأجل,Non-current Liabilities,TRUE,FALSE
+coa_eg_spares_221003,221003,مخصصات طويلة الأجل,Non-current Liabilities,FALSE,FALSE
+coa_eg_spares_311001,311001,رأس المال,Equity,FALSE,FALSE
+coa_eg_spares_311002,311002,جاري الشركاء,Equity,TRUE,FALSE
+coa_eg_spares_312001,312001,احتياطي قانوني,Equity,FALSE,FALSE
+coa_eg_spares_312002,312002,احتياطيات أخرى,Equity,FALSE,FALSE
+coa_eg_spares_313001,313001,أرباح محتجزة,Equity,FALSE,FALSE
+coa_eg_spares_314001,314001,أرباح وخسائر العام الحالي,Current Year Earnings,FALSE,FALSE
+coa_eg_spares_315001,315001,توزيعات أرباح,Equity,TRUE,FALSE
+coa_eg_spares_411001,411001,مبيعات قطع غيار - جملة,Income,FALSE,FALSE
+coa_eg_spares_411002,411002,مبيعات قطع غيار - تجزئة,Income,FALSE,FALSE
+coa_eg_spares_411003,411003,مبيعات قطع غيار - أونلاين,Income,FALSE,FALSE
+coa_eg_spares_411004,411004,مبيعات زيوت وسوائل,Income,FALSE,FALSE
+coa_eg_spares_411005,411005,مبيعات إكسسوارات سيارات,Income,FALSE,FALSE
+coa_eg_spares_411006,411006,مبيعات بطاريات,Income,FALSE,FALSE
+coa_eg_spares_411007,411007,مبيعات إطارات,Income,FALSE,FALSE
+coa_eg_spares_411008,411008,مبيعات خردة ومرتجعات غير صالحة,Other Income,FALSE,FALSE
+coa_eg_spares_411009,411009,مبيعات تصدير - صفرية,Income,FALSE,FALSE
+coa_eg_spares_412001,412001,مردودات مبيعات,Income,FALSE,FALSE
+coa_eg_spares_412002,412002,خصم مسموح به على المبيعات,Income,FALSE,FALSE
+coa_eg_spares_412003,412003,فروق أسعار مبيعات,Income,FALSE,FALSE
+coa_eg_spares_421001,421001,إيراد شحن وتوصيل للعملاء,Other Income,FALSE,FALSE
+coa_eg_spares_421002,421002,إيراد خدمات تركيب,Other Income,FALSE,FALSE
+coa_eg_spares_421003,421003,عمولات مكتسبة,Other Income,FALSE,FALSE
+coa_eg_spares_421004,421004,أرباح فروق عملة,Other Income,FALSE,FALSE
+coa_eg_spares_421005,421005,أرباح بيع أصول ثابتة,Other Income,FALSE,FALSE
+coa_eg_spares_421006,421006,إيرادات متنوعة,Other Income,FALSE,FALSE
+coa_eg_spares_511001,511001,تكلفة بضاعة مباعة - قطع غيار,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_511002,511002,تكلفة بضاعة مباعة - زيوت وسوائل,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_511003,511003,تكلفة بضاعة مباعة - إكسسوارات,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_511004,511004,تكلفة بضاعة مباعة - بطاريات,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_511005,511005,تكلفة بضاعة مباعة - إطارات,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_512001,512001,مصاريف شراء ونقل للداخل,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_512002,512002,شحن دولي وتأمين واردات,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_512003,512003,جمارك ورسوم تخليص غير مستردة,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_512004,512004,أرضيات وغرامات موانئ,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_512005,512005,فروق تكلفة مخزون,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_512006,512006,عجز وتلف مخزون,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_512007,512007,مخصص تقادم وهبوط مخزون,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_512008,512008,مردودات مشتريات,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_512009,512009,خصم مكتسب من الموردين,Cost of Revenue,FALSE,FALSE
+coa_eg_spares_611001,611001,رواتب وأجور,Expense,FALSE,FALSE
+coa_eg_spares_611002,611002,تأمينات اجتماعية - حصة الشركة,Expense,FALSE,FALSE
+coa_eg_spares_611003,611003,حوافز وعمولات مبيعات,Expense,FALSE,FALSE
+coa_eg_spares_611004,611004,تدريب وتوظيف,Expense,FALSE,FALSE
+coa_eg_spares_611005,611005,انتقالات وبدلات,Expense,FALSE,FALSE
+coa_eg_spares_612001,612001,إيجار المخازن والفروع,Expense,FALSE,FALSE
+coa_eg_spares_612002,612002,كهرباء ومياه وغاز,Expense,FALSE,FALSE
+coa_eg_spares_612003,612003,اتصالات وإنترنت,Expense,FALSE,FALSE
+coa_eg_spares_612004,612004,صيانة وإصلاحات,Expense,FALSE,FALSE
+coa_eg_spares_612005,612005,أمن ونظافة,Expense,FALSE,FALSE
+coa_eg_spares_612006,612006,مستلزمات تعبئة وتغليف,Expense,FALSE,FALSE
+coa_eg_spares_613001,613001,شحن وتوصيل للعملاء,Expense,FALSE,FALSE
+coa_eg_spares_613002,613002,وقود وزيوت سيارات التوزيع,Expense,FALSE,FALSE
+coa_eg_spares_613003,613003,صيانة سيارات التوزيع,Expense,FALSE,FALSE
+coa_eg_spares_613004,613004,تراخيص وتأمين سيارات,Expense,FALSE,FALSE
+coa_eg_spares_613005,613005,مصروفات سفر وانتقالات,Expense,FALSE,FALSE
+coa_eg_spares_614001,614001,إعلانات وتسويق,Expense,FALSE,FALSE
+coa_eg_spares_614002,614002,مصروفات منصات البيع الإلكتروني,Expense,FALSE,FALSE
+coa_eg_spares_614003,614003,عمولات بوابات الدفع والبنوك,Expense,FALSE,FALSE
+coa_eg_spares_614004,614004,ضيافة وعلاقات عامة,Expense,FALSE,FALSE
+coa_eg_spares_614005,614005,عينات وعروض ترويجية,Expense,FALSE,FALSE
+coa_eg_spares_615001,615001,أتعاب مهنية واستشارات,Expense,FALSE,FALSE
+coa_eg_spares_615002,615002,أتعاب محاسبة ومراجعة,Expense,FALSE,FALSE
+coa_eg_spares_615003,615003,رسوم وتراخيص حكومية,Expense,FALSE,FALSE
+coa_eg_spares_615004,615004,قرطاسية ومطبوعات,Expense,FALSE,FALSE
+coa_eg_spares_615005,615005,اشتراكات وبرامج,Expense,FALSE,FALSE
+coa_eg_spares_615006,615006,تأمين ممتلكات,Expense,FALSE,FALSE
+coa_eg_spares_615007,615007,مصروفات بنكية,Expense,FALSE,FALSE
+coa_eg_spares_615008,615008,ديون معدومة,Expense,FALSE,FALSE
+coa_eg_spares_615009,615009,تبرعات ومساهمات,Expense,FALSE,FALSE
+coa_eg_spares_615010,615010,مصروفات متنوعة,Expense,FALSE,FALSE
+coa_eg_spares_616001,616001,إهلاك مبانٍ وتجهيزات,Depreciation,FALSE,FALSE
+coa_eg_spares_616002,616002,إهلاك أثاث وتجهيزات,Depreciation,FALSE,FALSE
+coa_eg_spares_616003,616003,إهلاك حاسب وشبكات,Depreciation,FALSE,FALSE
+coa_eg_spares_616004,616004,إهلاك سيارات نقل,Depreciation,FALSE,FALSE
+coa_eg_spares_616005,616005,إهلاك معدات مخازن,Depreciation,FALSE,FALSE
+coa_eg_spares_616006,616006,إطفاء برامج وتراخيص,Depreciation,FALSE,FALSE
+coa_eg_spares_617001,617001,خسائر فروق عملة,Expense,FALSE,FALSE
+coa_eg_spares_617002,617002,خسائر بيع أصول ثابتة,Expense,FALSE,FALSE
+coa_eg_spares_617003,617003,غرامات ومخالفات,Expense,FALSE,FALSE
+coa_eg_spares_617004,617004,فوائد وتكاليف تمويل,Expense,FALSE,FALSE
+coa_eg_spares_911001,911001,خطابات ضمان صادرة,Off-Balance Sheet,FALSE,FALSE
+coa_eg_spares_911002,911002,اعتمادات مستندية مفتوحة,Off-Balance Sheet,FALSE,FALSE
+coa_eg_spares_911003,911003,بضائع أمانة لدى الشركة,Off-Balance Sheet,FALSE,FALSE
+coa_eg_spares_911004,911004,ضمانات وكفالات للغير,Off-Balance Sheet,FALSE,FALSE
